@@ -4,9 +4,13 @@ This include changes your symbols to different colors each time. The colors are 
 
 ## How to use
 `#include <ColText.hpp>`
+
 `int main() {`
+
 `    ColText("TERMCOLOR INCLUDE REQUIRED!");`
+
 `    return 0;`
+
 `}`
 
 ## Result
