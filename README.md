@@ -13,4 +13,5 @@ int main() {
 ```
 
 ## Result
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/f4448866-176f-4b8d-a7c5-b7c1bb5a6184" />
+<img width="2080" height="1228" alt="ColTextUseSample cpp" src="https://github.com/user-attachments/assets/edaaeedb-415d-4e70-ba3c-45ed2f251f20" />
+
